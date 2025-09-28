@@ -2,12 +2,6 @@
 
 > "All creation builds on what came before."
 
-This repository contains creative works released under the **Lineage Protocol** - a framework for open, attributed creative evolution.
-
-## 🎭 Active Universes
-
-- **[The Mnemosphere Universe](/universes/mnemosphere/)** - A civilization's journey through memory, prediction, and identity
-
 ## 📜 The Lineage Protocol
 
 The Lineage Protocol enables creators to build upon each other's work while maintaining clear attribution across adaptations.
