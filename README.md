@@ -1,7 +1,5 @@
 # Open-Source-Creative-Projects
 
-# Creative Works - Lineage Protocol
-
 > "All creation builds on what came before."
 
 This repository contains creative works released under the **Lineage Protocol** - a framework for open, attributed creative evolution.
